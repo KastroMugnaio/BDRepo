@@ -6,6 +6,7 @@
 * @authorId 	324834831378808832
 * @invite       gjR9rSb
 * @version      1.0
+* @updateUrl	https://raw.githubusercontent.com/KastroMugnaio/BDRepo/main/YoutubeMusicSearcher/YoutubeMusicSearcher.plugin.js		
 */
 
 module.exports = class YoutubeMusicSearcher {
